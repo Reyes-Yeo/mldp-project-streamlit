@@ -1,6 +1,8 @@
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import plotly
-import joblib
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+joblib
